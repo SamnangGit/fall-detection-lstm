@@ -26,7 +26,7 @@ This project implements a system for detecting human falls from video sequences 
 │ └── non_fall/
 ├── v1/ # Older version (Python scripts)
 │ ├── manually_test_model.py
-│ ├── SCH_Fall_Detection_with_Feature_Extracti... # (Likely combined script)
+│ ├── SCH_Fall_Detection_with_Feature_Extracti... # (combined script)
 │ └── train_model.py
 ├── v2/ # Current version (Jupyter Notebooks - improved readability)
 │ ├── feature_extraction.ipynb
